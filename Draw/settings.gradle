@@ -1,0 +1,1 @@
+include ':app', ':basedraw', ':shapedraw', ':hardshapedraw', ':mymatrix', ':mybitmap', ':mydrawable', ':mydrawablexml', ':myview', ':animationcomponents', ':animationimage'

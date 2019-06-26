@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../UIAndroid.iml" filepath="$PROJECT_DIR$/../UIAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylayout.iml" filepath="$PROJECT_DIR$/mylayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myui/myui.iml" filepath="$PROJECT_DIR$/../myui/myui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myuserinterface/myuserinterface.iml" filepath="$PROJECT_DIR$/../myuserinterface/myuserinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sizeandposition/sizeandposition.iml" filepath="$PROJECT_DIR$/../sizeandposition/sizeandposition.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherWidget</string>
+    <string name="appwidget_text">Погода обновляется</string>
+    <string name="lat">Широта</string>
+    <string name="lon">Долгота</string>
+    <string name="save_widget">Сохранить виджет</string>
+</resources>

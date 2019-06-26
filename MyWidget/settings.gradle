@@ -1,0 +1,1 @@
+include ':firstwidget', ':configwidget', ':updatewidget', ':updatewidget', ':weatherwidget'

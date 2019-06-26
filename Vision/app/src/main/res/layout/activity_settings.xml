@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".SettingsActivity">
+
+    <TextView
+        android:id="@+id/header"
+        style="@style/BaseStyle"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="80dp"
+        android:textSize="30sp"
+        android:text="@string/settings" />
+
+    <TextView
+        android:id="@+id/work"
+        style="@style/BaseStyle"
+        android:layout_below="@id/header"
+        android:layout_marginTop="50dp"
+        android:text="@string/work" />
+
+    <EditText
+        android:id="@+id/timeWork"
+        style="@style/BaseStyle"
+        android:layout_below="@id/work"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:inputType="time" />
+
+    <TextView
+        android:id="@+id/rest"
+        style="@style/BaseStyle"
+        android:layout_below="@id/timeWork"
+        android:layout_marginTop="30dp"
+        android:text="@string/rest" />
+
+    <EditText
+        android:id="@+id/timeRest"
+        style="@style/BaseStyle"
+        android:layout_below="@id/rest"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:inputType="time" />
+
+    <Button
+        android:id="@+id/save"
+        style="@style/BaseStyle"
+        android:layout_below="@id/timeRest"
+        android:layout_marginTop="30dp"
+        android:text="@string/save" />
+
+</RelativeLayout>

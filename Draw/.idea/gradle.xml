@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/animationcomponents" />
+            <option value="$PROJECT_DIR$/animationimage" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/basedraw" />
+            <option value="$PROJECT_DIR$/hardshapedraw" />
+            <option value="$PROJECT_DIR$/mybitmap" />
+            <option value="$PROJECT_DIR$/mydrawable" />
+            <option value="$PROJECT_DIR$/mydrawablexml" />
+            <option value="$PROJECT_DIR$/mymatrix" />
+            <option value="$PROJECT_DIR$/myview" />
+            <option value="$PROJECT_DIR$/shapedraw" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

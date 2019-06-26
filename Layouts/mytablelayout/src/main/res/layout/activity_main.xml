@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@string/text_size_small"
+            android:id="@+id/tv1"
+            android:layout_weight="2"
+            android:text="A" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@string/text_size_small"
+            android:layout_weight="1"
+            android:text="B" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@string/text_size_small"
+            android:layout_weight="2"
+            android:text="C" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@string/text_size_middle"
+            android:layout_span="3"
+            android:gravity="center_horizontal"
+            android:layout_weight="1"
+            android:text="D" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@string/text_size_large"
+            android:layout_weight="2"
+            android:text="E" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@string/text_size_large"
+            android:layout_weight="2"
+            android:gravity="right"
+            android:text="F" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@string/text_size_large"
+            android:layout_weight="1"
+            android:text="G" />
+    </TableRow>
+
+</TableLayout>

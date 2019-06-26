@@ -1,0 +1,1 @@
+include ':app', ':activitymethods', ':myintent', ':dataexchange', ':myservice', ':mynotification'

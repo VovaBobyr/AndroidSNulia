@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyTheme" parent="Base.Theme.AppCompat.Light">
+        <item name="android:textSize">40sp</item>
+    </style>
+
+    <style name="MySuperTheme" parent="android:Theme.Light.Panel">
+        <item name="android:colorBackground">@color/colorBackground</item>
+    </style>
+
+    <style name="MainTheme" parent="Base.Theme.AppCompat.Light" />
+
+</resources>

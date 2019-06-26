@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyLayout</string>
+    <string name="text">MyText</string>
+</resources>

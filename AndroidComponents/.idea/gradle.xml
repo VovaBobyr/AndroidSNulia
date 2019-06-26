@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT" />
+        </compositeConfiguration>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/mybutton" />
+            <option value="$PROJECT_DIR$/mycheckbox" />
+            <option value="$PROJECT_DIR$/mydatetime" />
+            <option value="$PROJECT_DIR$/myedittext" />
+            <option value="$PROJECT_DIR$/myhardlist" />
+            <option value="$PROJECT_DIR$/mylist" />
+            <option value="$PROJECT_DIR$/myradiobutton" />
+            <option value="$PROJECT_DIR$/myseekbar" />
+            <option value="$PROJECT_DIR$/myspinner" />
+            <option value="$PROJECT_DIR$/mytextview" />
+            <option value="$PROJECT_DIR$/mytoast" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

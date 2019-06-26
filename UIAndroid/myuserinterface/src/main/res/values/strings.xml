@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyUserInterface</string>
+    <string name="number_1">Число 1</string>
+    <string name="number_2">Число 2</string>
+    <string name="calc_summa">Вычислить сумму</string>
+    <string name="back">Назад</string>
+</resources>

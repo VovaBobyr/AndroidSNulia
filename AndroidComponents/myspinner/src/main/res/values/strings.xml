@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySpinner</string>
+    <string-array name="spinner">
+        <item>Сок</item>
+        <item>Вода</item>
+        <item>Газировка</item>
+    </string-array>
+</resources>
